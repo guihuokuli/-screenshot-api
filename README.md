@@ -1,6 +1,6 @@
 # ScreenshotAPI
 
-Website screenshot & social card API. Free tier: 30/day.
+Website screenshot & social card API. Free tier: 30 requests/day.
 
 ## Quick Start
 👉 https://158.247.230.116.nip.io/docs
